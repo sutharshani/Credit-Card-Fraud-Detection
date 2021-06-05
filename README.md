@@ -42,7 +42,7 @@ You will need the following applications to execute this project-
 [back to top](#table-of-contents)
 
 ## Project Status
-Work in progress. I will be uploading more details soon. \
+I was able to build a model which predicts fraud transaction with good accuracy. \
 [back to top](#table-of-contents)
 
 ## Versioning
