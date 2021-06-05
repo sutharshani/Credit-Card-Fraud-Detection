@@ -38,6 +38,7 @@ You will need the following applications to execute this project-
 
 * Python 3 (or Anaconda distribution with Python 3)
 * Jupyter or any other notebook
+* Download the input data from input provided in reference
 
 [back to top](#table-of-contents)
 
